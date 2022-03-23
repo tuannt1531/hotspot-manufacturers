@@ -21,8 +21,7 @@ We are impressed by Helium concept and it’s business future.
 This is full hotspot.
 * Is it for indoor or outdoor?
 It is for indoor.
-* Please provide a brief description of what you're making?
-Product will use Raspberry Pi 4 + Seeed Lora1302 module (with Raspberry Pi hat) + high gainer antenna for frequency 868M (EU), 915M(US), 925M(Japan), 490M (China). We will use ATECC608 Chip to secure the system.
+* Please provide a brief description of what you're making? Version 1: Product will use Raspberry Pi 4 + Seeed Lora1302 (USB) module (with Raspberry Pi hat) + high gainer antenna for frequency 868M (EU), 915M(US), 470M (China). We will use ATECC608 Chip to secure the system. Version 2: Product will use Raspberry Pi 4 + Lora1302 (SPI) module (with Raspberry Pi hat) + high gainer antenna for frequency 868M (EU), 915M(US), 470M (China). ATECC608 Chip to secure the system.
 
 ## What is your approximate price point? (required)
 We will sell our first generation product at around $500, but will reduce the price under $300 after we optimized the hardware cost in second generation product.
